@@ -1,0 +1,5 @@
+﻿  LABA 2.1.cpp
+C:\Users\Compik_2\source\repos\LABA 2.1\LABA 2.1\LABA 2.1.cpp(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+C:\Users\Compik_2\source\repos\LABA 2.1\LABA 2.1\LABA 2.1.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Compik_2\source\repos\LABA 2.1\x64\Debug\LABA 2.1.exe : fatal error LNK1120: 1 unresolved externals

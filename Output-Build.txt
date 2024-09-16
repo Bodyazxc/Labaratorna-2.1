@@ -1,0 +1,6 @@
+﻿Build started at 17:52...
+1>------ Build started: Project: Labarator 2.1, Configuration: Debug x64 ------
+1>2.1.cpp
+1>Labarator 2.1.vcxproj -> C:\Users\Compik_2\source\repos\Labarator 2.1\x64\Debug\Labarator 2.1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 17:52 and took 05,554 seconds ==========
